@@ -1,0 +1,15 @@
+{
+  "name": "projectsetup",
+  "version": "1.0.0",
+  "description": "setup a professional project as industry grade ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mern",
+    "stack"
+  ],
+  "author": "akshat bhatya",
+  "license": "ISC"
+}
